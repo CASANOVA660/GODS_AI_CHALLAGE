@@ -3,3 +3,5 @@ pandas
 nltk
 spacy
 transformers
+tqdm
+torch
