@@ -5,3 +5,6 @@ spacy
 transformers
 tqdm
 torch
+catboost
+xgboost
+lightgbm
