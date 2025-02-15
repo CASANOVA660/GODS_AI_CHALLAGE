@@ -1,0 +1,5 @@
+contractions
+pandas
+nltk
+spacy
+transformers
