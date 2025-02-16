@@ -10,3 +10,5 @@ torch
 catboost
 xgboost
 lightgbm
+textstat
+scikit-learn
