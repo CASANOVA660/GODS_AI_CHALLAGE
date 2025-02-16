@@ -1,8 +1,10 @@
+# python 3.12.7
+
 contractions
 pandas
 nltk
 spacy
-transformers
+transformers==4.48.3
 tqdm
 torch
 catboost
